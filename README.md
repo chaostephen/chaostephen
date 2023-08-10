@@ -21,8 +21,8 @@ I come from a traditional Asian-American family background where hard work and e
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chaostephen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### Projects
+https://youtu.be/gEbN3yhJ4BA
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chaostephen&icon=0&color=0)](https://visitcount.itsvg.in)
