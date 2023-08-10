@@ -23,6 +23,7 @@ I come from a traditional Asian-American family background where hard work and e
 
 ### Projects
 https://youtu.be/gEbN3yhJ4BA
+https://youtu.be/5OJ5EDR0Qos
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chaostephen&icon=0&color=0)](https://visitcount.itsvg.in)
